@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+
+    <SearchView
+        android:id="@+id/search_notes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="搜索便签" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_green_dark"
+        android:drawSelectorOnTop="false" />
+
+    <TextView
+        android:id="@android:id/empty"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_dark"
+        android:text="无搜索结果" />
+</LinearLayout>
+ 

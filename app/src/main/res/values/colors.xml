@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGreen">#C7EDCC</color>
+    <color name="bisque">#ffe4c4</color><!--桔黄色 -->
+    <color name="lightgoldenrodyellow">#fafad2</color><!--亮金黄色 -->
+    <color name="lavenderblush">#fff0f5</color><!--淡紫红 -->
+    <color name="gold">#ffd700</color><!--金色 -->
+    <color name="azure">#f0ffff</color><!--天蓝色 -->
+    <color name="violet">#ee82ee</color><!--紫罗兰色 -->
+    <color name="darkorchid">#9932cc</color><!--暗紫色 -->
+    <color name="lightseagreen">#20b2aa</color><!--亮海蓝色 -->
+    <color name="limegreen">#32cd32</color><!--橙绿色 -->
+    <color name="mediumturquoise">#48d1cc</color><!--中绿宝石 -->
+</resources>

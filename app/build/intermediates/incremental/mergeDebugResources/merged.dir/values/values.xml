@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azure">#f0ffff</color>
+    <color name="bisque">#ffe4c4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGreen">#C7EDCC</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="darkorchid">#9932cc</color>
+    <color name="gold">#ffd700</color>
+    <color name="lavenderblush">#fff0f5</color>
+    <color name="lightgoldenrodyellow">#fafad2</color>
+    <color name="lightseagreen">#20b2aa</color>
+    <color name="limegreen">#32cd32</color>
+    <color name="mediumturquoise">#48d1cc</color>
+    <color name="violet">#ee82ee</color>
+    <string name="app_name">安卓记事本</string>
+    <string name="button_ok">确 认</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">Error</string>
+    <string name="live_folder_name">事件列表</string>
+    <string name="menu_add">新建 事件</string>
+    <string name="menu_changeColor">修改背景颜色</string>
+    <string name="menu_copy">复 制</string>
+    <string name="menu_delete">删 除</string>
+    <string name="menu_open">打 开</string>
+    <string name="menu_paste">粘 贴</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_save">保 存</string>
+    <string name="nothing_to_save">没有内容</string>
+    <string name="resolve_edit">修改事件</string>
+    <string name="resolve_title">修改标题</string>
+    <string name="text_title">标 题:</string>
+    <string name="title_create">新事件</string>
+    <string name="title_edit">修改: %1$s</string>
+    <string name="title_edit_title">事件标题:</string>
+    <string name="title_notes_list">事件列表</string>
+</resources>

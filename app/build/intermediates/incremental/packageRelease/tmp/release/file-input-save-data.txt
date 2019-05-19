@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 17 00:15:23 CST 2019
+0.baseType=DIRECTORY
+0.base=F\:\\notepad-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
