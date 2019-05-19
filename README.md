@@ -9,11 +9,16 @@
 
 ### 三：更换背景颜色
 
-**-------**
+
+
+
 
 ### 一：显示时间戳
 *功能截图:*
-![Alt text](/imgs/事件最后编辑时间戳.png)
+
+<div align=center>
+<img src="/imgs/事件最后编辑时间戳.png" width = "400" height = "800" div align=center />
+</div>
 
 #### 在noteList_item中添加一个TextView来显示时间
 
@@ -61,7 +66,11 @@ android:padding="10dp">
 
 ### 二：笔记查询功能
 *功能截图:*
-![Alt text](/imgs/模糊搜索功能.png)
+<div align=center>
+<img src="/imgs/模糊搜索功能.png" width = "400" height = "800" div align=center />
+</div>
+
+
 
 #### 在noteList_listview布局里 添加搜索控件
 
@@ -142,9 +151,12 @@ android:padding="10dp">
     
 ### 三：更换背景颜色
 *功能截图:*
-![Alt text](/imgs/修改背景颜色.png)
-![Alt text](/imgs/单选框修改背景颜色.png)
-![Alt text](/imgs/修改背景颜色成功.png)
+<div align=center>
+<img src="/imgs/修改背景颜色.png" width = "400" height = "800"  />
+<img src="/imgs/单选框修改背景颜色.png" width = "400" height = "800"  />
+<img src="/imgs/修改背景颜色成功.png" width = "400" height = "800" />
+</div>
+
 
 #### 在options_menu里 添加修改背景颜色选项item
 
@@ -188,7 +200,10 @@ android:padding="10dp">
     }
     
 *其余截图:*
-![Alt text](/imgs/添加新事件功能.png)
-![Alt text](/imgs/修改事件标题功能.png)
+<div align=center>
+<img src="/imgs/添加新事件功能.png" width = "400" height = "800" div align=center />
+<img src="/imgs/修改事件标题功能.png" width = "400" height = "800" div align=center />
+</div>
+
 
 
