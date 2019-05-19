@@ -202,12 +202,13 @@ android:padding="10dp">
     }
     
 ### 其余截图:
-   * 添加新事件截图: 
+   *  添加新事件截图: 
 <div align=center>
   
 <img src="/imgs/添加新事件功能.png" width = "400" height = "800" div align=center />
 </div>
-   * 修改事件标题截图: 
+
+   *  修改事件标题截图: 
 <div align=center>
        
 <img src="/imgs/修改事件标题功能.png" width = "400" height = "800" div align=center />
