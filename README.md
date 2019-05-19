@@ -14,7 +14,7 @@
 
 
 ### 一：显示时间戳
-* 功能截图: *
+* 功能截图: 
 
 <div align=center>
 <img src="/imgs/事件最后编辑时间戳.png" width = "400" height = "800" div align=center />
@@ -65,7 +65,7 @@ android:padding="10dp">
 </LinearLayout>
 
 ### 二：笔记查询功能
-* 功能截图: *
+* 功能截图: 
 <div align=center>
 <img src="/imgs/搜索之前.png" width = "400" height = "800" div align=center />
 <img src="/imgs/模糊搜索功能.png" width = "400" height = "800" div align=center />
@@ -152,7 +152,7 @@ android:padding="10dp">
     }
     
 ### 三：更换背景颜色
-* 功能截图: *
+* 功能截图: 
 <div align=center>
 <img src="/imgs/修改背景颜色.png" width = "400" height = "800"  />
 <img src="/imgs/单选框修改背景颜色.png" width = "400" height = "800"  />
@@ -202,12 +202,12 @@ android:padding="10dp">
     }
     
 ### 其余截图:
-   * 添加新事件截图: *
+   * 添加新事件截图: 
 <div align=center>
   
 <img src="/imgs/添加新事件功能.png" width = "400" height = "800" div align=center />
 </div>
-   * 修改事件标题截图: *
+   * 修改事件标题截图: 
 <div align=center>
        
 <img src="/imgs/修改事件标题功能.png" width = "400" height = "800" div align=center />
