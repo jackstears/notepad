@@ -67,7 +67,9 @@ android:padding="10dp">
 ### 二：笔记查询功能
 *功能截图:*
 <div align=center>
+<img src="/imgs/搜索之前.png" width = "400" height = "800" div align=center />
 <img src="/imgs/模糊搜索功能.png" width = "400" height = "800" div align=center />
+    
 </div>
 
 
@@ -201,7 +203,11 @@ android:padding="10dp">
     
 *其余截图:*
 <div align=center>
+     *添加新事件截图:*
 <img src="/imgs/添加新事件功能.png" width = "400" height = "800" div align=center />
+</div>
+<div align=center>
+          *修改事件标题截图:*
 <img src="/imgs/修改事件标题功能.png" width = "400" height = "800" div align=center />
 </div>
 
